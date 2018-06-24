@@ -1,1 +1,1 @@
-work: nude MusicBot.js
+worker: node MusicBot.js
